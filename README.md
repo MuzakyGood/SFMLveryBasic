@@ -49,4 +49,9 @@
 # **LISENSI**
 <p>Lisensi dari SFML itu OpenSources</p>
 
+# **Tentang Repositori Ini**
+
+<p>
+  <i>Note: Repositori ini tidak akan di update karena hanya awal contoh dari SFML yang saya buat.</i>
+</p>
 <p>😄 Selamat belajar, Semoga repository ini bermanfaat bagi kalian 😄</p>
