@@ -10,10 +10,14 @@
 </p>
 <details>
  <summary>Tools that must be installed:</summary>
- 1. Visual Studio Code 
+ 1. Visual Studio Code
+ <br>
  2. Git
+ <br>
  3. Cmake
+ <br>
  4. Mingw 64/32 (Use according to the SFML that was downloaded)
+ <br>
  5. SFML Library 
 </details>
 
