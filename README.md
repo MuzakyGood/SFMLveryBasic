@@ -8,6 +8,14 @@
   Karena ini projek pertama saya maaf kalau jelek gamenya 😅.
   Ini library dari bahasa pemrograman pertama yang saya coba, pada intinya baru banget belajar SFML ini.
 </p>
+<details>
+ <summary>Tools that must be installed:</summary>
+ 1. Visual Studio Code 
+ 2. Git
+ 3. Cmake
+ 4. Mingw 64/32 (Use according to the SFML that was downloaded)
+ 5. SFML Library 
+</details>
 
 # **Apa itu SFML?**
 <p>
